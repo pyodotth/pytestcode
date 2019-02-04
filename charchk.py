@@ -3,4 +3,3 @@
 
 tmp = "A"
 print(tmp.istitle())
-print("Test Github")
